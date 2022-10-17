@@ -1,2 +1,3 @@
-# To_do_list_react
-Lista de tarefas feito em react JS
+Projeto feito em react JS com objetivo de trabalhar a tecnologia.
+
+Lista de tarefas com possibilidade de adicionar, deletar e editar uma atividade.
